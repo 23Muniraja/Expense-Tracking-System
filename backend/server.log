@@ -60,3 +60,18 @@
 2025-06-29 16:32:08,146 - db_helper - INFO - fetch_monthwise_expense_summary called with for year: 2024
 2025-06-29 16:33:14,219 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-01
 2025-06-29 16:33:16,280 - db_helper - INFO - fetch_monthwise_expense_summary called with for year: 2024
+2025-06-29 17:57:57,111 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-01
+2025-06-29 17:58:19,352 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-02
+2025-06-29 17:58:47,848 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-02
+2025-06-29 17:58:49,895 - db_helper - INFO - fetch_expense_summary called with start: 2024-08-01 end: 2024-08-05
+2025-06-29 17:59:14,328 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-02
+2025-06-29 17:59:14,440 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-02
+2025-06-29 17:59:16,482 - db_helper - INFO - fetch_monthwise_expense_summary called with for year: 2024
+2025-06-29 17:59:39,904 - db_helper - INFO - fetch_expenses_for_date called with 2025-06-29
+2025-06-29 18:00:00,018 - db_helper - INFO - fetch_expenses_for_date called with 2025-06-29
+2025-06-29 18:00:02,067 - db_helper - INFO - delete_expenses_for_date called with 2025-06-29
+2025-06-29 18:00:02,070 - db_helper - INFO - insert_expense called with date: 2025-06-29, amount: 100.0, category: Food, notes: DINNER
+2025-06-29 18:00:08,190 - db_helper - INFO - fetch_expenses_for_date called with 2025-06-29
+2025-06-29 18:00:08,272 - db_helper - INFO - fetch_expenses_for_date called with 2025-06-29
+2025-06-29 18:00:10,328 - db_helper - INFO - fetch_monthwise_expense_summary called with for year: 2025
+2025-06-29 18:52:04,352 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-01
