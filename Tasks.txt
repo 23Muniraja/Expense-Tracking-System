@@ -1,0 +1,6 @@
+CRUD operations in python(db_helper.py)             Done
+Expense Management: API endpoint development        Done
+Add Logging                                         Done
+Expense Management: Frontend Developement(streamlit)Done
+Analytics: API endpoint development                 Done
+Analystics: Frontend Developement(streamlit)        Open
